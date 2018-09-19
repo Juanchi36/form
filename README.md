@@ -1,6 +1,6 @@
 # Formulario de subscripción
 
-Trabajo práctico para la materia Taller de práctica II
+Trabajo práctico para la materia Taller de práctica II -- Realizado con React Js - Material UI
 
 
 Consigna:
