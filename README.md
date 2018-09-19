@@ -1,6 +1,8 @@
-# form
+# Formulario de subscripción
 
 Trabajo práctico para la materia Taller de práctica II
+
+
 Consigna:
 
 Trabajo Práctico:: Subcripción
@@ -23,4 +25,6 @@ Aceptar / Cancelar
 
 https://xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
 
-# Demo:  https://juanchi36.github.io/formulario/
+# Demo: 
+
+https://juanchi36.github.io/formulario/
